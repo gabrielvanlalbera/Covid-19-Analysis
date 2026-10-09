@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COVID-19 Global Impact & Forecasting Analytics
 
 **A reproducible data analytics and machine learning project connecting COVID-19 trends, population-adjusted outcomes, pre-pandemic happiness/economic indicators, and US county-level differences.**
@@ -139,3 +140,6 @@ The workbook is an Our World in Data COVID-19 dataset export. Other optional fil
 - Add rolling-origin backtesting and evaluate performance separately by region and incidence level.
 - Include vaccination and testing indicators only where coverage is adequate and definitions are consistent.
 - Build a Power BI tooltip page for country context and a drill-through page for US states/counties.
+=======
+# Covid-19-Analysis
+>>>>>>> origin/main
