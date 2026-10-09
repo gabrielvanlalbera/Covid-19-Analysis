@@ -54,9 +54,7 @@ The pipeline creates processed tables, model metrics, a held-out prediction tabl
 
 Open `notebooks/01_covid_global_impact.ipynb` in Jupyter or VS Code. It reads the included processed tables and reproduces the main exploratory views.
 
-### 4. Build the Power BI report
 
-Follow [`dashboard/PowerBI_Guide.md`](dashboard/PowerBI_Guide.md), import the processed CSVs, set up the relationships, and use `dashboard/covid_theme.json` as the report theme.
 
 ## Modeling design
 
