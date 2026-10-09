@@ -1,0 +1,23 @@
+file_name,format,rows,columns,date_start,date_end,source_family,project_role,size_mb
+2015(1).csv,csv,158,12,,,World Happiness Report,Pre-pandemic happiness/economic context,0.02
+2016(1).csv,csv,157,13,,,World Happiness Report,Pre-pandemic happiness/economic context,0.02
+2017(1).csv,csv,155,12,,,World Happiness Report,Pre-pandemic happiness/economic context,0.03
+2018(1).csv,csv,156,9,,,World Happiness Report,Pre-pandemic happiness/economic context,0.01
+2019(1).csv,csv,156,9,,,World Happiness Report,Pre-pandemic happiness/economic context,0.01
+countries_by_population_2019(1).csv,csv,232,7,,,Population reference,Alternative pre-pandemic population reference,0.01
+country-and-continent-codes-list-csv(1).csv,csv,262,6,,,Country metadata,Country/continent mapping,0.01
+country_codes_2020(1).csv,csv,232,4,,,Country metadata,Country code reference for harmonization,0.01
+country_wise_latest(1).csv,csv,187,15,,,JHU-style snapshot,"Country-level snapshot; alternate view, not added to daily panel",0.01
+covid_19_clean_complete(1).csv,csv,49068,10,2020-01-22,2020-07-27,JHU-style time series,Daily long-format country/province counts; source comparison,3.15
+covid_19_data.csv,csv,306429,8,2020-01-22,2021-05-29,JHU-style time series,Daily long-format reported counts; independent source comparison,21.49
+day_wise(1).csv,csv,188,12,2020-01-22,2020-07-27,JHU-style time series,Global daily aggregates; source comparison,0.01
+full_grouped(1).csv,csv,35156,10,2020-01-22,2020-07-27,JHU-style time series,Country-day grouped counts; source comparison,1.77
+owid-covid-data.xlsx,xlsx,103907,60,2020-01-01,2021-07-20,OWID,"Primary country-day panel, population and contextual indicators",16.42
+population_by_country_2020(1).csv,csv,235,11,,,Population reference,Population denominator for country comparisons,0.02
+time_series_covid_19_confirmed.csv,csv,276,498,2020-01-22,2021-05-29,JHU time series,Wide global confirmed counts; source comparison,0.62
+time_series_covid_19_confirmed_US.csv,csv,3342,505,2020-01-22,2021-05-29,JHU US county time series,US county confirmed counts and geographic detail,6.29
+time_series_covid_19_deaths.csv,csv,276,498,2020-01-22,2021-05-29,JHU time series,Wide global death counts; source comparison,0.43
+time_series_covid_19_deaths_US.csv,csv,3342,506,2020-01-22,2021-05-29,JHU US county time series,US county death counts and population,4.37
+time_series_covid_19_recovered.csv,csv,261,498,2020-01-22,2021-05-29,JHU time series,Wide global recovered counts; source comparison,0.56
+usa_county_wise(1).csv,csv,627920,14,2020-01-22,2020-07-27,US county long format,Alternative county-day series; useful for detailed checks,66.6
+worldometer_data(1).csv,csv,209,16,,,Worldometer snapshot,Country-level snapshot and testing context,0.02

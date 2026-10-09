@@ -1,0 +1,16 @@
+{
+  "name": "COVID Global Impact - Clean Contrast",
+  "dataColors": ["#22B8CF", "#FF9F43", "#6C8AE4", "#63E6BE", "#F06595", "#A9B5C6", "#FFD43B", "#845EF7"],
+  "background": "#0B1220",
+  "foreground": "#F4F7FB",
+  "tableAccent": "#22B8CF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "color": { "solid": { "color": "#F4F7FB" } }, "fontSize": 12, "fontFamily": "Segoe UI Semibold" }],
+        "background": [{ "color": { "solid": { "color": "#111C2E" } }, "transparency": 5 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#26354B" } }, "radius": 6 }]
+      }
+    }
+  }
+}
